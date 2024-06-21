@@ -1,5 +1,5 @@
-to click like url: http://127.0.0.1:8000/online-courses-api/lessons/{lesson id}/like/ -> method(POST)
-to click dislike url: http://127.0.0.1:8000/online-courses-api/lessons/{lesson id}/dislike/ -> method(POST)
+to click like url: http://127.0.0.1:8000/online-courses-api/lessons/{lesson_id}/like/ -> method(POST)
+to click dislike url: http://127.0.0.1:8000/online-courses-api/lessons/{lesson_id}/dislike/ -> method(POST)
 
 send messages to users: http://127.0.0.1:8000/online-courses-api/send-mail/ -> method(POST)
 Sample: 
